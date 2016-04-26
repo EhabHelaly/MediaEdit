@@ -1,0 +1,35 @@
+mcc -C -o PhotoEdit -W WinMain:PhotoEdit -T link:exe -d C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit\for_testing -v C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit.m -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Help.fig -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Help.m -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit.fig -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Preferences.fig -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Preferences.m -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\reg.mat -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Shortcuts.fig -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Shortcuts.m -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\Textures -a C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\WorkSpace.mat 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit" to
+Compiler path instance.] 
+[] 
+Parsing file "C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 15 temporary MEX authorization files.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183424280_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_018342241_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183416151_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_01834337_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183418082_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183424482_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183429430_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_018344722_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_018342627_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183414320_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183426554_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_018341374_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183424346_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_0183419679_6196.auth'.
+Removing: 'C:\Users\Shiko\AppData\Local\Temp\mathworks_tmp_018346614_6196.auth'.
+Generating file "C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit_resources\icon.ico to C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit\for_testing\PhotoEdit.exe.
+Attempting to embed the CTF archive into the application C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit\for_testing\PhotoEdit.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Users\Shiko\Documents\MATLAB\MediaEdit\PhotoEdit\PhotoEdit\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 2 minutes and 29 seconds.
